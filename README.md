@@ -21,14 +21,12 @@ Welcome to the **Weather App**, an advanced and visually stunning application de
 - **📱 Fully Responsive Design**  
   - Optimized for all screen sizes, offering a smooth experience on desktops, tablets, and mobile devices.  
 
-- **🌗 Dark & Light Modes**  
-  - Switch between themes for a comfortable viewing experience at any time of day.  
 
 ---
 
 ## 🚀 Live Demo  
 
-🌐 **[Try the application here](https://your-username.github.io/weather-app/)**  
+🌐 **[Try the application here](https://mahmoudnazmy.github.io/Weather-app-dist/)**  
 
 ---
 
