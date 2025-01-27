@@ -21,12 +21,17 @@ Welcome to the **Weather App**, an advanced and visually stunning application de
 - **📱 Fully Responsive Design**  
   - Optimized for all screen sizes, offering a smooth experience on desktops, tablets, and mobile devices.  
 
-
 ---
 
 ## 🚀 Live Demo  
 
 🌐 **[Try the application here](https://mahmoudnazmy.github.io/Weather-app-dist/)**  
+
+---
+
+## 📂 Build Version  
+
+This repository contains the **build version** (production-ready files) only. The complete source code has been excluded for security and intellectual property protection.  
 
 ---
 
